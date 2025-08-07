@@ -11,7 +11,7 @@ If you don't intend to change the default port, default root dir, and server add
 
 ## Support
 Windows ✔
-Linux - Coming Soon.
-MacOS - Coming Soon.
+Linux - No. It's called **Win**TTP. Duuh
+MacOS - Seriously... 
 
 <img width="2558" height="1318" alt="image" src="https://github.com/user-attachments/assets/a4e5449b-43db-48f3-a6a9-847a04aa6b94" />
