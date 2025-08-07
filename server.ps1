@@ -1,6 +1,6 @@
 $listener = New-Object System.Net.HttpListener
 
-$port = 4545 # Specify the port to run the HTTP Server on.
+$port = 8000 # Specify the port to run the HTTP Server on.
 $server = "127.0.0.1"
 $base_dir = "C:\http" # Specify the root directory for serving files.
 $default_filenames = @("index.html", "index.htm", "default.html")
