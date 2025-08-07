@@ -2,6 +2,8 @@
 
 winttp is a simple, lightweight http server that you can deploy in seconds! It is mainly intented for debug purposes, but it can handle bigger projects with ease too.
 
+If you are on windows, you dont have to install anything at all, just use this script!
+
 ## Installation
 
 Simply download the server.ps1 file, and run it with powershell.
