@@ -1,4 +1,4 @@
-#WinTTP
+# WinTTP
 
 winttp is a simple, lightweight http server that you can deploy in seconds! It is mainly intented for debug purposes, but it can handle bigger projects with ease too.
 
